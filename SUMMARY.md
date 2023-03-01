@@ -16,8 +16,8 @@
 * [Valuation Module](contracts/valuation-module/README.md)
   * [Tokenization](contracts/valuation-module/tokenization.md)
 
-## Guides
+## Example Apps
 
 ## Links
 
-* [FAQ](.../faq/)
+* [FAQ](faq.md)
