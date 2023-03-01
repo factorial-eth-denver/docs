@@ -39,7 +39,7 @@ By simplifying unnecessarily redundant DeFi functionalities into modules and sha
 | --- | --- |
 | Risk Management Module : risk evaluating process to prevent financially harmful changes to user’s assets from malicious logic within apps built on Factorial | Connector Module : Relays requests of execution from Factorial apps to external DeFi protocols  |
 
-![Factorial Structure](./images/factorial_structure.png)
+![Factorial Structure](./images/factorial-structure.png)
 
 ## ****Future Development****
 
