@@ -32,3 +32,8 @@ This can prevent malicious losses by tracking the changes of the user assets.
 
 Trigger module enables the App on Factorial to provide various actions that require Trigger, e.g., Liquidate, Stop-loss, take-profit, maturity.
 Automation pool provides the connection with external automation triggerer, e.g., Chainlink automation node.
+
+## Valuation
+
+Valuation module measures the value of a DeFi position by using tokenization with external oracles.
+`Tokenization` turns a DeFi position into a token (i.e., ERC1155) so that it can be easily valuated and collateralized.
