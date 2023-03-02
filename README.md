@@ -4,7 +4,10 @@ Factorial enables developers to build DeFi apps with a shorter codebase and matu
 
 ## ****Problem****
 
-Many DeFi apps are built with extensive lines of solidity contracts, but the functionalities of the majority of the codebase overlap. Also, it is challenging and resource-consuming for new DeFi apps to acquire and grow necessary ecosystems including: oracles, liquidators, market makers, liquidity providers, and more. These combined factors result in an insecure codebase and lack of ecosystem resources, hindering potential growth.
+![Building DeFi is Shitty.](../images/buildingdefi_is_shitty.png)
+
+Many DeFi apps are built with extensive lines of solidity contracts, but the functionalities of the majority of the codebase overlap. 
+Also, it is challenging and resource-consuming for new DeFi apps to acquire and grow necessary ecosystems including: oracles, liquidators, market makers, liquidity providers, and more. These combined factors result in an insecure codebase and lack of ecosystem resources, hindering potential growth.
 
 ## ****Target Users****
 
@@ -28,7 +31,12 @@ Many DeFi apps are built with extensive lines of solidity contracts, but the fun
 
 ## ****Solution****
 
-By simplifying unnecessarily redundant DeFi functionalities into modules and shared ecosystems, Factorial significantly optimizes the DeFi building process. On Factorial, a leveraged yield farming app made of 3000+ lines of code elsewhere is achievable with less than 500 lines.
+![Easy to Build, Hard to Rug.](../images/easy_build_hard_rug.png)
+
+By simplifying unnecessarily redundant DeFi functionalities into modules and shared ecosystems, Factorial significantly optimizes the DeFi building process. 
+On Factorial, a leveraged yield farming app made of 3000+ lines of code elsewhere is achievable with less than 500 lines.
+
+![From 3000 lines of code to 500.](../images/easy_to_build.png)
 
 ### **Factorial Modules**
 
@@ -44,5 +52,4 @@ Our prototype showcases how three DeFi apps can be built on Factorial with a sig
 
 - fund management : generalized passive investment tools
 - expand connector coverage : more external DeFi connected to Factorial
-
-## ****Thanks & Contribute****
+- optimized swap router : easy-to-use token swap module connecting multiple DEXs
