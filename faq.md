@@ -4,7 +4,9 @@
 
 ## Design
 
-### Q) Why did your team decide to launch Factorial on Polygon?
+<details>
+
+<summary>Why did your team decide to launch Factorial on Polygon?</summary>
 
 - 60% of DeFi TVL stays in Ethereum Network, but more than 90% locked in EVM compatible blockchains. Factorial platform works best within the environment where lots of DeFi protocols exist to connect with, so it was our timely decision to build as set of EVM compatible contracts.
 
@@ -12,19 +14,31 @@
 
 - In far future, we believe this status will change over time. More DeFi activities will be diversified to other ecosystem outside EVM world, and we will slowly prepare for expansion of our service outside EVM world.
 
-### Q) Factorial is not a just simple code but a combination of modules and ecosystems. What kind of modules consist of?
+</details>
+
+<details>
+
+<summary>Factorial is not a just simple code but a combination of modules and ecosystems. What kind of modules consist of?</summary>
 
 | Valuation Module : Connects oracle services to calculate value of any DeFi positions in Factorial | Liquidation Module : Manages liquidation process requested by apps built on Factorial |
 | --- | --- |
 | Asset Management Module : Interfacing users/apps for risk check of changes requested from apps/users | Connector Module : Relays requests of execution  at external DeFi protocols from apps |
 
-### Q) FTR staking holder will get their reward by the proportional fee on Factorial. Is there any specific fee structure?
+</details>
+
+<details>
+
+<summary>FTR staking holder will get their reward by the proportional fee on Factorial. Is there any specific fee structure?</summary>
 
 - FTR staker community will decide by governance how much of the fee accumulated from Factorial module interactions will be distributed to FTR stakers as protocol fee.
 
 - Most importantly, services which create higher probability of larger amount of risk exposure to Factorial and its users will be the multiplier of protocol fee proportion.
 
-### Q) Is there any specific tokenomics of FTR? (e.g., inflation, token distribution, burning mechanism)
+</details>
+
+<details>
+
+<summary>Is there any specific tokenomics of FTR? (e.g., inflation, token distribution, burning mechanism)</summary>
 
 - There are two categories of ecosystem participants:
     - Resource Providers
@@ -35,17 +49,25 @@
         - they will pay fee/tax related to their corresponding utilities they consumed
 - FTR token stakers will have the governance rights to decide revenue distribution
 
+</details>
+
 ---
 
 ## Security
 
-### Q) How Factorial check sanity of changes requested by each app built on Factorial?
+<details>
+
+<summary>How Factorial check sanity of changes requested by each app built on Factorial?</summary>
 
 - In principle, any change occurring on assets owned by users should not result in significant financial damages. Asset Management module does sanity check on every request transaction from users/apps so that we can make sure it does not cause any significant loss to users.
 
 - This is possible by utilizing Valuation module which is responsible for external data feeding and conservative asset valuation with configuration decided by governance. Exceptions of financial loss allowed are from slippages or liquidation costs, which are executed by Factorial modules.
 
-### Q) Why multi-DeFi apps built on Factorial are more secure than stand-alone apps?
+</details>
+
+<details>
+
+<summary>Why multi-DeFi apps built on Factorial are more secure than stand-alone apps?</summary>
     
 There are several reasons why apps built on Factorial are much safer than stand-alone apps:
     
@@ -68,18 +90,27 @@ There are several reasons why apps built on Factorial are much safer than stand-
 - Factorial team is best suited for technologically&financially secure platform development
      - Our team has been accumulating teamwork capability for almost 5 years, with balanced talents from financial industry and blockchain engineering. We know how to design economically viable DeFi apps, and also know how to build secure apps for blockchain community. We have experience on how to grow community, partnerships and ecosystem for DeFi apps.
 
-- Q) When we assume that tremendous apps are integrated/built on factorial, Is there any risk-hedging strategy in the case of an unexpected hack or critical issue on the Factorial module itself?
+</details>
+
+<details>
+
+<summary>When we assume that tremendous apps are integrated/built on factorial, Is there any risk-hedging strategy in the case of an unexpected hack or critical issue on the Factorial module itself?</summary>
+  
     - very strict and throughout testing and simulation process for internal development cycle.
     - slow and infrequent upgrade of modules to minimize risk exposure on changes of codes.
     - economically and structurally conservative approach to have various limits in the modules so that the amount of exploitation risk is capped even in the bug existing situation.
     - frequent audits by multiple auditors to minimize vulnerabilities within Factorial modules.
     - bug bounty alive for bug hunters to recognize and fix potential risk factors.
 
+</details>
+
 ---
 
 ## Ecosystem
 
-### Q) What components make up the Factorial Ecosystem?
+<details>
+
+<summary>What components make up the Factorial Ecosystem?</summary>
 
 - **Oracle Services** : connected with Valuation module to serve external on-chain/off-chain data for valuation of DeFi assets within Factorial.
 
@@ -89,7 +120,11 @@ There are several reasons why apps built on Factorial are much safer than stand-
 
 - **DeFi Users** : provides or consumes resources or services operated on Factorial and interact each other within the integrated ecosystem.
 
-### Q) What kind of initial multi-DeFi apps/use cases on Factorial are needed?
+</details>
+
+<details>
+
+<summary>What kind of initial multi-DeFi apps/use cases on Factorial are needed?</summary>
 
 - Team will build 3 multi-DeFi apps in-House:
     - Lending : becomes a bank to lend tokens not only to individuals but also to whitelisted apps built on Factorial.
@@ -102,7 +137,11 @@ There are several reasons why apps built on Factorial are much safer than stand-
     - Synthetic Assets : creating derivatives products such as option products utilizing Factorial’s given features
     - Automated Fund Management : automated trading service with pre-defined strategy for passive investment tools
 
-### Q) How can you attract creative multi-DeFi app developers into Factorial ecosystem?
+</details>
+
+<details>
+
+<summary>How can you attract creative multi-DeFi app developers into Factorial ecosystem?</summary>
 
 - Because app developing experience on Factorial will be similar to learning a new smart contract language, it is very important for us to educate developers so that they can fully understand how Factorial modules should be used to build apps on Factorial.
 
@@ -116,7 +155,11 @@ There are several reasons why apps built on Factorial are much safer than stand-
 - Study Courses
     - We will provide study courses to acquire necessary information about Factorial modules to allow students to have consistent motivation and acquire knowledge.
 
-### Q) There are so many sectors factorial need to build from the ecosystem perspective, what is your expected first external ecosystem partner? (Starting point of the ecosystem)
+</details>
+
+<details>
+
+<summary>There are so many sectors factorial need to build from the ecosystem perspective, what is your expected first external ecosystem partner? (Starting point of the ecosystem)</summary>
 
 - Initial B2B partnerships will be focused on oracle services and liquidators.
 
@@ -124,17 +167,25 @@ There are several reasons why apps built on Factorial are much safer than stand-
 
 - For liquidators, there will be several partnerships with market makers to make sure multiple competition on liquidation auction process to minimize difference from fair value and liquidated value. B-Harvest will also participate in this process to make competition tighter.
 
+</details>
+
 ---
 
 ## Competition
 
-### Q) What projects are your competitors in this market and what’s the big difference between Factorial?
+<details>
+
+<summary>What projects are your competitors in this market and what’s the big difference between Factorial?</summary>
 
 - Multi-DeFi platform such as Instadapp is the only competitor of Factorial with similar purpose. But its platform does not provide fully modular functionalities for building new DeFi apps, but simply connecting multiple DeFi protocols to automate asset management. However, Factorial’s vision allows multi-DeFi developers to build their own creative logic utilizing Factorial modules, significantly reduce overhead to re-inventing wheels for core financial functionalities and infrastructure building. Therefore the vision and depth of modularity and functionality of each platform is very different.
 
 - Multi-DeFi apps such as Alpha Homora, Yearn Finance, 1Inch Exchange are competitors for the apps built on Factorial. Those apps will compete with existing services by sharing modules and ecosystem provided by Factorial to create stronger and more secure infrastructure than stand-alone applications.
 
-### Q) As an inherently unique product, why has no other succeeded in doing what Factorial plans to do?
+</details>
+
+<details>
+
+<summary>As an inherently unique product, why has no other succeeded in doing what Factorial plans to do?</summary>
 
 - In traditional finance, when we trade stocks, we don’t directly interface with exchanges. We interface with brokers who connect multiple exchanges and financial products around the world to provide convenient one-stop gateway.
 
@@ -144,10 +195,16 @@ There are several reasons why apps built on Factorial are much safer than stand-
 
 - After significant growth in DeFi since summer 2020, it is the right time for us to provide such platform to greatly enhance user’s convenience and utility to accelerate again the mass adoption of DeFi.
 
-### Q) Is the Expected Valuation for Factorial realistic? How did you come up with the number?
+</details>
+
+<details>
+
+<summary>Is the Expected Valuation for Factorial realistic? How did you come up with the number?</summary>
 
 - Current total DeFi TVL is about $50B. We believe that when Factorial is successful, a lot of popular multi-DeFi apps will be built and operated on Factorial platform. Even though Factorial apps are not directly possessing assets, it is the Factorial ecosystem which possess interfaces with end-users, hence value accrual for such user-base and TVL is stronger on platform side than each products utilized from platform.
 
 - Because Factorial ecosystem will acquire end-users, the potential valuation of Factorial is much larger than many existing stand-alone DeFi protocols combined.
 
 - However, because Factorial is challenging the new norms for DeFi ecosystem, the valuation is heavily discounted to only 0.2% of total DeFi TVL, $100M.
+
+</details>
