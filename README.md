@@ -2,9 +2,6 @@
 
 Factorial enables developers to build DeFi apps with a shorter codebase and mature/grow/accelerate their ecosystem more effectively. DeFi apps built on Factorial will utilize the framework's core financial modules and shared ecosystem resources.
 
-- **ETHDenver Finals Demo:**  youtube link / pitch deck / developer doc
-- **Website:** https://factorial.network
-
 ## ****Problem****
 
 Many DeFi apps are built with extensive lines of solidity contracts, but the functionalities of the majority of the codebase overlap. Also, it is challenging and resource-consuming for new DeFi apps to acquire and grow necessary ecosystems including: oracles, liquidators, market makers, liquidity providers, and more. These combined factors result in an insecure codebase and lack of ecosystem resources, hindering potential growth.
