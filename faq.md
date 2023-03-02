@@ -20,25 +20,25 @@
 
 <summary>Factorial is not a just simple code but a combination of modules and ecosystems. What kind of modules consist of?</summary>
 
-| Valuation Module : Connects oracle services to calculate value of any DeFi positions in Factorial | Liquidation Module : Manages liquidation process requested by apps built on Factorial |
-| --- | --- |
-| Asset Management Module : Interfacing users/apps for risk check of changes requested from apps/users | Connector Module : Relays requests of execution  at external DeFi protocols from apps |
+-  Valuation Module : Connects oracle services to calculate value of any DeFi positions in Factorial
+-  Liquidation Module : Manages liquidation process requested by apps built on Factorial
+-  Asset Management Module : Interfacing users/apps for risk check of changes requested from apps/users
+- Connector Module : Relays requests of execution  at external DeFi protocols from apps
 
 </details>
 
 <details>
 
-<summary>FTR staking holder will get their reward by the proportional fee on Factorial. Is there any specific fee structure?</summary>
+<summary>FCT staking holder will get their reward by the proportional fee on Factorial. Is there any specific fee structure?</summary>
 
-- FTR staker community will decide by governance how much of the fee accumulated from Factorial module interactions will be distributed to FTR stakers as protocol fee.
-
+- FCT staker community will decide by governance how much of the fee accumulated from Factorial module interactions will be distributed to FCT stakers as protocol fee.
 - Most importantly, services which create higher probability of larger amount of risk exposure to Factorial and its users will be the multiplier of protocol fee proportion.
 
 </details>
 
 <details>
 
-<summary>Is there any specific tokenomics of FTR? (e.g., inflation, token distribution, burning mechanism)</summary>
+<summary>Is there any specific tokenomics of FCT? (e.g., inflation, token distribution, burning mechanism)</summary>
 
 - There are two categories of ecosystem participants:
     - Resource Providers
@@ -47,7 +47,7 @@
     - Utility Consumers (Users)
         - end-users consuming utilities provided by resource providers
         - they will pay fee/tax related to their corresponding utilities they consumed
-- FTR token stakers will have the governance rights to decide revenue distribution
+- FCT token stakers will have the governance rights to decide revenue distribution
 
 </details>
 

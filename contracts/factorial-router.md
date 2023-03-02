@@ -1,8 +1,6 @@
-# Connector
+# Factorial Router
 
-## Connector
-
-**Connector** is ...
+**Factorial Router** is to route the users transaction request to the corresponding app on Factorial.
 
 ## Write Methods
 
@@ -12,3 +10,8 @@
 
 Call to the target using the given data.
 
+### executeBatch
+
+`function executeBatch(uint256 _maximumLoss, address[] calldata _targetArray, bytes[] calldata _dataArray)`
+
+Call batch to the target using the given data array.
