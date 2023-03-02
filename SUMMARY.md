@@ -12,7 +12,7 @@
 
 * [Factorial Router](contracts/factorial-router.md)
 * [Connector](contracts/connector.md)
-* [Liquidationt](contracts/liquidation.md)
+* [Liquidation](contracts/liquidation.md)
 * [Risk Management](contracts/risk.md)
 * [Trigger](contracts/trigger.md)
 * [Valuation](contracts/valuation.md)
