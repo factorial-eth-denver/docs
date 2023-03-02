@@ -96,11 +96,15 @@ There are several reasons why apps built on Factorial are much safer than stand-
 
 <summary>When we assume that tremendous apps are integrated/built on factorial, Is there any risk-hedging strategy in the case of an unexpected hack or critical issue on the Factorial module itself?</summary>
   
-    - very strict and throughout testing and simulation process for internal development cycle.
-    - slow and infrequent upgrade of modules to minimize risk exposure on changes of codes.
-    - economically and structurally conservative approach to have various limits in the modules so that the amount of exploitation risk is capped even in the bug existing situation.
-    - frequent audits by multiple auditors to minimize vulnerabilities within Factorial modules.
-    - bug bounty alive for bug hunters to recognize and fix potential risk factors.
+- very strict and throughout testing and simulation process for internal development cycle.
+
+- slow and infrequent upgrade of modules to minimize risk exposure on changes of codes.
+  
+- economically and structurally conservative approach to have various limits in the modules so that the amount of exploitation risk is capped even in the bug existing situation.
+  
+- frequent audits by multiple auditors to minimize vulnerabilities within Factorial modules.
+  
+- bug bounty alive for bug hunters to recognize and fix potential risk factors.
 
 </details>
 

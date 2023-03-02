@@ -5,6 +5,9 @@
 * [Factorial Overview](README.md)
 * [Contracts Overview](getting-started/contracts-overview.md)
 
+## Ecosystem and Tokenomics
+* [Ecosystem and Tokenomics](ecosystem/tokenomics.md)
+
 ## Contracts
 
 * [Factorial Router](contracts/factorial-router.md)
