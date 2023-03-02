@@ -1,6 +1,8 @@
 # Factorial Router
 
-**Factorial Router** is to route the users transaction request to the corresponding app on Factorial.
+![Factorial Router](../images/factorial-router.png)
+
+**Factorial Router** forwards the user's request to the corresponding app under the supervision of Risk management.
 
 ## Write Methods
 

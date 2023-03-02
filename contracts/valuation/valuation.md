@@ -1,8 +1,12 @@
 # Valuation
 
+![Valuation Module](../../images/valuation.png)
+
+**Valuation** module measures the value of a DeFi position by using tokenization with external oracles.
+
 ## Tokenization
 
-**Tokenization** is ...
+`Tokenization` turns a DeFi position into a token (i.e., ERC1155) so that it can be easily valuated and collateralized.
 
 ## Write Methods
 

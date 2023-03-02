@@ -1,8 +1,15 @@
-# Risk
+# Risk Management
+
+![Risk Management Module](../../images/risk.png)
+
+**Risk Management** module monitors and restricts the asset flow by transactions.
+This consists of the functionalities as asset management and limition of risk factor.
 
 ## Asset Management
 
-**Asset Management** is ...
+`Asset Management` converts user's assets(ERC20) into factorial assets and give them to the app.
+This can prevent malicious losses by tracking the changes of the user assets.
+`Asset Management` of Factorial does not require the process of approval in order to remove the potential risk.
 
 ## Write Methods
 
