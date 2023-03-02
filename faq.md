@@ -1,8 +1,8 @@
 # FAQ
 
-## Design
-
 ---
+
+## Design
 
 ### Q) Why did your team decide to launch Factorial on Polygon?
 
@@ -35,9 +35,9 @@
         - they will pay fee/tax related to their corresponding utilities they consumed
 - FTR token stakers will have the governance rights to decide revenue distribution
 
-## Security
-
 ---
+
+## Security
 
 ### Q) How Factorial check sanity of changes requested by each app built on Factorial?
 
@@ -75,9 +75,9 @@ There are several reasons why apps built on Factorial are much safer than stand-
     - frequent audits by multiple auditors to minimize vulnerabilities within Factorial modules.
     - bug bounty alive for bug hunters to recognize and fix potential risk factors.
 
-## Ecosystem
-
 ---
+
+## Ecosystem
 
 ### Q) What components make up the Factorial Ecosystem?
 
@@ -124,9 +124,9 @@ There are several reasons why apps built on Factorial are much safer than stand-
 
 - For liquidators, there will be several partnerships with market makers to make sure multiple competition on liquidation auction process to minimize difference from fair value and liquidated value. B-Harvest will also participate in this process to make competition tighter.
 
-## Competition
-
 ---
+
+## Competition
 
 ### Q) What projects are your competitors in this market and what’s the big difference between Factorial?
 
