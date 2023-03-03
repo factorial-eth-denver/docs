@@ -1,13 +1,19 @@
 # Ecosystem and Tokenomics
 
+Factorial ecosystem consists of users, app developers, community auditors, FCT stakers, and other participants (e.g., liquidator and oracle service providers).
+
+![Factorial Ecosystem](../images/ecosystem.png)
+
 The governance token in Factorial is symbolized as `FCT`.
+FCT tokenomics and user fee distributions are crucial economic designs to grow the entire ecosystem.
 Factorial ecosystem and tokenomics are also all about **security**!
+Factorial has two major parts of tokenomics:
+    1. Fee distribution
+    2. FCT incentives
 
 ![Factorial Tokenomics](../images/tokenomics.png)
 
-FCT tokenomics and user fee distributions are crucial economic designs to grow the entire ecosystem.
-User fees and FCT incentives are distributed to the ecosystem contributors to create infinite positive loop of engagement.
-Factorial has two major parts for tokenomics, user fees and FCT incentives.
+## Fee Distribution
 
 First, user fees are distributed to core ecosystem contributors.
 App developers rewards are correlated with their security measures and amount of FCT staked at.
@@ -15,7 +21,9 @@ FCT stakers earn fixed proportion of fee paid by users, but skin in the game by 
 Other ecosystem participants are rewarded for their resource contribution activities.
 The rest of fees are used for buy&burn FCT.
 
+# FCT Incentives
+
 Second, FCT incentives are also used to bootstrap ecosystem growth.
-Developer & auditor community is the most important part of Factorial ecosystem.
-FCT are used for hackathons, education, peer review, auditing activities, and governance participations.
-Initially, FCT stakers are also rewarded with FCT for bootstrapping staking activities.
+Incentives are used for hackathons, education, peer review, auditing activities, and governance leaderships.
+Initially, stakers are also incentivized to encourage staking activities.
+Burning occurs from protocol fees and staker slashing from app exploitation.
