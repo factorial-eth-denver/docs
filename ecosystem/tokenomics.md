@@ -10,6 +10,7 @@ Factorial ecosystem and tokenomics are also all about **security**!
 Factorial has two major parts of tokenomics:
     1. Fee distribution
     2. FCT incentives
+The above tokenomics can accelerate positive loop of security engagement within the Factorial ecosystem.
 
 ![Factorial Tokenomics](../images/tokenomics.png)
 
