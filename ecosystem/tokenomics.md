@@ -22,7 +22,7 @@ FCT stakers earn fixed proportion of fee paid by users, but skin in the game by 
 Other ecosystem participants are rewarded for their resource contribution activities.
 The rest of fees are used for buy&burn FCT.
 
-# FCT Incentives
+## FCT Incentives
 
 Second, FCT incentives are also used to bootstrap ecosystem growth.
 Incentives are used for hackathons, education, peer review, auditing activities, and governance leaderships.
