@@ -20,34 +20,10 @@
 
 <summary>Factorial is not a just simple code but a combination of modules and ecosystems. What kind of modules consist of?</summary>
 
--  Valuation Module : Connects oracle services to calculate value of any DeFi positions in Factorial
--  Liquidation Module : Manages liquidation process requested by apps built on Factorial
--  Asset Management Module : Interfacing users/apps for risk check of changes requested from apps/users
-- Connector Module : Relays requests of execution  at external DeFi protocols from apps
-
-</details>
-
-<details>
-
-<summary>FCT staking holder will get their reward by the proportional fee on Factorial. Is there any specific fee structure?</summary>
-
-- FCT staker community will decide by governance how much of the fee accumulated from Factorial module interactions will be distributed to FCT stakers as protocol fee.
-- Most importantly, services which create higher probability of larger amount of risk exposure to Factorial and its users will be the multiplier of protocol fee proportion.
-
-</details>
-
-<details>
-
-<summary>Is there any specific tokenomics of FCT? (e.g., inflation, token distribution, burning mechanism)</summary>
-
-- There are two categories of ecosystem participants:
-    - Resource Providers
-        - providing resources for the ecosystem, such as oracle services, liquidators, market makers, liquidity providers, app developers, insurers
-        - they will receive incentives calculated from resource they provided for the ecosystem
-    - Utility Consumers (Users)
-        - end-users consuming utilities provided by resource providers
-        - they will pay fee/tax related to their corresponding utilities they consumed
-- FCT token stakers will have the governance rights to decide revenue distribution
+-  Valuation Module: Connects oracle services to calculate value of any DeFi positions in Factorial
+-  Liquidation Module: Manages liquidation process requested by apps built on Factorial
+-  Asset Management Module: Interfacing users/apps for risk check of changes requested from apps/users
+- Connector Module: Relays requests of execution  at external DeFi protocols from apps
 
 </details>
 
@@ -116,13 +92,13 @@ There are several reasons why apps built on Factorial are much safer than stand-
 
 <summary>What components make up the Factorial Ecosystem?</summary>
 
-- **Oracle Services** : connected with Valuation module to serve external on-chain/off-chain data for valuation of DeFi assets within Factorial.
+- **Oracle Services**: connected with Valuation module to serve external on-chain/off-chain data for valuation of DeFi assets within Factorial.
 
-- **Liquidators and Market Makers** : participates in liquidation process via Liquidation module to resolve financial situation and reduce risk.
+- **Liquidators and Market Makers**: participates in liquidation process via Liquidation module to resolve financial situation and reduce risk.
 
-- **App Developers** : represents new creative multi-DeFi applications to be deployed and served for DeFi users in Factorial ecosystem.
+- **App Developers**: represents new creative multi-DeFi applications to be deployed and served for DeFi users in Factorial ecosystem.
 
-- **DeFi Users** : provides or consumes resources or services operated on Factorial and interact each other within the integrated ecosystem.
+- **DeFi Users**: provides or consumes resources or services operated on Factorial and interact each other within the integrated ecosystem.
 
 </details>
 
@@ -130,16 +106,16 @@ There are several reasons why apps built on Factorial are much safer than stand-
 
 <summary>What kind of initial multi-DeFi apps/use cases on Factorial are needed?</summary>
 
-- Team will build 3 multi-DeFi apps in-House:
-    - Lending : becomes a bank to lend tokens not only to individuals but also to whitelisted apps built on Factorial.
-    - DeFi Leverage : collateralizing user’s assets including DeFi positions to allow DeFi leveraging, borrowing tokens from Lending app.
-    - Managed Fund : a passive investment tool for DeFi investors to allow restricted control of users’ aggregated fund by professional fund managers.
+- Apps that can be easily built on Factorial:
+    - Lending: becomes a bank to lend tokens not only to individuals but also to whitelisted apps built on Factorial.
+    - DeFi Leverage: collateralizing user’s assets including DeFi positions to allow DeFi leveraging, borrowing tokens from Lending app.
+    - Managed Fund: a passive investment tool for DeFi investors to allow restricted control of users’ aggregated fund by professional fund managers.
 
 - Other than above, we expect more variety of multi-DeFi apps such as list below will attract users:
-    - Margin Trading : margin trading without tokens by collateralizing DeFi positions
-    - P2P OTC : allows any individual to easily create a financial contract each other by collateralizing their DeFi positions
-    - Synthetic Assets : creating derivatives products such as option products utilizing Factorial’s given features
-    - Automated Fund Management : automated trading service with pre-defined strategy for passive investment tools
+    - Margin Trading: margin trading without tokens by collateralizing DeFi positions
+    - P2P OTC: allows any individual to easily create a financial contract each other by collateralizing their DeFi positions
+    - Synthetic Assets: creating derivatives products such as option products utilizing Factorial’s given features
+    - Automated Fund Management: automated trading service with pre-defined strategy for passive investment tools
 
 </details>
 

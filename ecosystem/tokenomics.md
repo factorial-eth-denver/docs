@@ -1,4 +1,4 @@
-# Ecosystem and Tokenomics
+<!-- # Ecosystem
 
 Factorial ecosystem consists of users, app developers, community auditors, FCT stakers, and other participants (e.g., liquidator and oracle service providers).
 
@@ -27,4 +27,4 @@ The rest of fees are used for buy&burn FCT.
 Second, FCT incentives are also used to bootstrap ecosystem growth.
 Incentives are used for hackathons, education, peer review, auditing activities, and governance leaderships.
 Initially, stakers are also incentivized to encourage staking activities.
-Burning occurs from protocol fees and staker slashing from app exploitation.
+Burning occurs from protocol fees and staker slashing from app exploitation. -->
