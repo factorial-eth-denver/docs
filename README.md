@@ -6,7 +6,7 @@ Factorial enables developers to build DeFi apps with a shorter codebase and matu
 
 ![Building DeFi is Shitty.](./images/buildingdefi_is_shitty.png)
 
-Many DeFi apps are built with extensive lines of solidity contracts, but the functionalities of the majority of the codebase overlap. 
+Many DeFi apps are built with extensive lines of solidity contracts, but the functionalities of the majority of the codebase overlap.
 Also, it is challenging and resource-consuming for new DeFi apps to acquire and grow necessary ecosystems including: oracles, liquidators, market makers, liquidity providers, and more. These combined factors result in an insecure codebase and lack of ecosystem resources, hindering potential growth.
 
 ## ****Target Users****

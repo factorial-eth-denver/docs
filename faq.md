@@ -20,9 +20,9 @@
 
 <summary>Factorial is not a just simple code but a combination of modules and ecosystems. What kind of modules consist of?</summary>
 
--  Valuation Module: Connects oracle services to calculate value of any DeFi positions in Factorial
--  Liquidation Module: Manages liquidation process requested by apps built on Factorial
--  Asset Management Module: Interfacing users/apps for risk check of changes requested from apps/users
+- Valuation Module: Connects oracle services to calculate value of any DeFi positions in Factorial
+- Liquidation Module: Manages liquidation process requested by apps built on Factorial
+- Asset Management Module: Interfacing users/apps for risk check of changes requested from apps/users
 - Connector Module: Relays requests of execution  at external DeFi protocols from apps
 
 </details>
