@@ -22,3 +22,8 @@
 ## Links
 
 * [FAQ](faq.md)
+* [Website](https://factorial.network)
+* [YouTube](https://www.youtube.com/channel/UC8s9PaQbGHehm5dtU_sOJdQ)
+* [Twitter](https://twitter.com/FactorialFi)
+* [Telegram](https://t.me/factorialfi)
+* [Discord](https://discord.gg/zggTQdDtZM)
